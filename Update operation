@@ -1,0 +1,4 @@
+db.books.updateOne(
+  { bookId: 101 },
+  { $set: { price: 550 } }
+)
