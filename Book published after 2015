@@ -1,0 +1,3 @@
+db.books.find({
+  publishedDate: { $gt: new Date("2015-12-31") }
+})
