@@ -1,0 +1,17 @@
+# 📚 Book Management System (MongoDB)
+
+## 📌 Project Description
+This project is a simple Book Management System built using **Node.js**, **MongoDB**, and **Mongoose**.
+It allows users to perform basic CRUD operations such as inserting and viewing book details.
+
+---
+
+## 🛠️ Technologies Used
+- Node.js
+- MongoDB
+- Mongoose
+- JavaScript
+
+---
+
+## 📂 Project Structure
