@@ -1,0 +1,9 @@
+try {
+    // risky code
+}
+catch(Exception e) {
+    // error handling code
+}
+finally {
+    // always executes
+}
